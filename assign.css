@@ -1,0 +1,19 @@
+body{
+	text-align: justify;
+
+	 
+	
+	font-family: sans-serif;
+}
+.warp
+{
+	margin: auto;
+	width: 600px;
+}
+blockquote
+{
+	border: 1px solid black;
+	text-align: center;  
+	margin-left:0;
+
+}

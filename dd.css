@@ -1,0 +1,36 @@
+
+.warp
+{
+background: #D633FF;
+}
+nav 
+{
+
+background-color: orange;
+}
+nav li 
+{
+	display: inline;
+}
+.primary 
+{
+	background: #3399FF;
+
+}
+aside 
+{
+	background: yellow;
+}
+header 
+{
+	background:#FF3385;
+}
+.main
+{
+	margin-top: 30px;
+	background: blue;
+}
+section
+{
+	padding: 10px;
+}

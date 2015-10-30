@@ -1,0 +1,79 @@
+.myblog
+{
+	min-width: 600px;
+	width: 80%;
+	margin: auto;
+	background:#1975FF;
+	overflow: hidden;
+
+}
+.aboutme, aside 
+{
+
+	height: 600px;
+}
+.aboutme
+{
+
+	background:#A3FFD1;
+	float: left;
+	width: 80%;
+
+}
+aside 
+{
+
+	background:#FFB8DC;
+	float:left;
+	width: 20%;
+}
+aside  li
+{
+	display: inline;
+	list-style: none;
+	padding-left:0;
+}
+aside a:hover
+{
+	list-style: none;
+text-decoration: none;
+color: blue;
+padding-bottom: 20px;
+font-size: 20px;
+}
+
+
+p, a
+
+{
+	display: inline;
+	padding-right: 05px;
+	text-decoration: none;
+}
+ul, li, a:hover
+{
+
+list-style: none;
+text-decoration: none;
+color: blue;
+padding-bottom: 20px;
+font-size: 20px;
+}
+textarea 
+{
+height: 40px;
+width: 200px;
+
+}
+lable
+{
+	display: block;
+cursor: pointer;
+
+}
+
+
+form ul
+{
+	padding-left: 0;
+}

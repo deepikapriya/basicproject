@@ -1,0 +1,53 @@
+a 
+{
+	list-style: none;
+}
+body
+{
+	background-color: white;
+}
+h1
+{
+	
+}
+h1
+{
+	font-size: 40px;
+	position: relative;
+	left: 120px;
+	letter-spacing: 05px;
+	font-family: verdana;
+	
+	text-transform: uppercase;
+
+}
+ h2, li
+{
+	
+	text-align: justify;
+	position: relative;
+	left: 250px;
+	padding-bottom: 30px;
+	list-style: circle;
+	list-style-type: square;
+	text-transform: capitalize;
+	letter-spacing: 05px;
+	font-family: sans-serif transparent;
+	color:#27191E;
+	
+
+}
+li, a
+{
+	text-decoration: none;
+	color: #800000;
+
+}
+a:hover
+{
+text-decoration: none;
+list-style: none;
+font-size: 25px;
+color:  #990033;
+}
+
